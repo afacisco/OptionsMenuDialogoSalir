@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionsMenuDialogoSalir</string>
+    <string name="op_salir_text">Opción Salir</string>
+    <string name="tit_dialogo">Salir</string>
+    <string name="mensaje_dialogo">¿Quiere salir de la aplicación?</string>
+    <string name="btn_pos_text">Aceptar</string>
+    <string name="btn_neg_text">Cancelar</string>
+</resources>
